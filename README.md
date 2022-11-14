@@ -18,5 +18,3 @@ This pack was designed for a Halloween server a few friends and I are building, 
 I also don't know if HalbFettKaese cares if other people implement their pack into their own, I could probably make this pack use it as a dependency or something similar, but I generally don't like the idea of dependencies. 
 
 Updated 11/14/22, confirmed to work on Minecraft version(s) 1.19.2
-
-(This project is licensed under the terms of the MIT license)
