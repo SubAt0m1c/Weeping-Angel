@@ -1,6 +1,6 @@
 # Weeping Angel datapack
 
-This datapack adds functionality for weeping angels in a multiplayer environment, or with mobs.
+This datapack adds functionality for weeping angels in a multiplayer environment, or with mobs if you dont have friends.
 
 ## Installation and usage:
 
