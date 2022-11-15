@@ -7,7 +7,7 @@ This datapack adds functionality for weeping angels in a multiplayer environment
 Place the .zip file into your "datapacks" folder located in your selected world's folder, ex: .minecraft > saves > New World > datapacks
 
 Give whatever mob or player you want the pack to work on the "weeping" tag, it should then work fully.
-If you want the Weeping Angel to have extra buffs when not being looked at, just run a command with @e[tag=weeping,tag=!find_looking.result]
+If you want the Weeping Angel to have extra buffs when not being looked at, just run a command with the targetted selector being @e[tag=weeping,tag=!find_looking.result].
 
 ## sources:
 [FindLooking datapack by HalbFettKaese](https://github.com/HalbFettKaese/FindLooking/releases/tag/v1.0), solely used to determine what is being looked at, probably overcomplicated for this use case but I don't care. The pack will also have unintended side effects if you use this source for anything else.
